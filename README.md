@@ -32,7 +32,7 @@ Feature Engineering: New features are created from raw data, such as:
 - Model Selection: Various machine learning algorithms are explored for classification tasks (predicting Home Win, Draw, or Away Win). Common algorithms considered include:
 -- Random Forests Classifier
 -- Logistic Regression
--- Linear Regression and Regularized Linear Models (L1/Lasso and L2/Ridge)
+-- Linear Regression and Regularized Linear Models (L1/Lasso and L2/Ridge) for Scenario Practice and Evaluation
 - Model Training and Evaluation: Selected models are trained on historical data. Cross-validation techniques are employed to ensure model robustness. Performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 - Prediction: The trained model is used to predict outcomes for future matches.
 
